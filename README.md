@@ -11,7 +11,7 @@
 - `3.py` 为 3.3 分析目标 的代码实现
 
 ### 互评作业2
-
+- `1.py`、`2.py`、`3.py`、`4.py`分别为任务目标1、2、3、4的代码实现
 ### 使用方法
 - `conda activate -n XXX python=3.11` XXX为环境名
 - `pip install -r requirements.txt`
